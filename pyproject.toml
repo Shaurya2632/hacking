@@ -3,9 +3,13 @@ name = "hacking"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = [
+    "comtypes>=1.4.14",
+    "keyboard>=0.13.5",
+    "mouse>=0.7.1",
     "psutil>=7.2.1",
+    "pynput>=1.8.1",
     "pywifi>=1.1.12",
     "speedtest>=0.0.1",
 ]

