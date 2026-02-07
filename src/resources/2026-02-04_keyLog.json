@@ -1,0 +1,830 @@
+{
+  "2026-02-04 (08:53:34)": [
+    {
+      "type": "MouseMove",
+      "details": "Position: (802, 879)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (803, 879)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (807, 879)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (814, 879)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (825, 881)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (837, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (851, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (871, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (891, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (938, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (962, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (986, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1010, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1032, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1050, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1063, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1091, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1105, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1116, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1128, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1137, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1148, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1151, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1152, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1152, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1152, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1152, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1150, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1143, 882)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1132, 880)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1116, 876)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1065, 871)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1034, 868)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (994, 864)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (952, 859)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (910, 856)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (820, 850)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (776, 847)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (733, 845)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (693, 843)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (658, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (606, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (593, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (584, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (580, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (578, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (578, 842)"
+    }
+  ],
+  "2026-02-04 (08:53:35)": [
+    {
+      "type": "MouseMove",
+      "details": "Position: (578, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (584, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (595, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (611, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (663, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (691, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (722, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (756, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (830, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (876, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (921, 842)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (967, 840)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1049, 831)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1084, 827)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1113, 824)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1131, 823)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1154, 820)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1160, 820)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1163, 820)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1164, 820)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1164, 820)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1164, 819)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1164, 819)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1159, 818)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1151, 817)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1116, 812)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1085, 809)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1012, 803)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (979, 802)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (949, 802)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (900, 802)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (879, 809)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (862, 815)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (844, 830)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (839, 837)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (837, 846)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (836, 856)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (838, 877)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (843, 887)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (850, 896)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (864, 908)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (900, 929)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (922, 937)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (948, 941)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1002, 942)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1035, 942)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1070, 942)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1142, 928)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1179, 917)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1214, 905)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1247, 892)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1299, 862)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1314, 851)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1323, 841)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1332, 825)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1332, 817)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1332, 809)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1330, 800)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1320, 780)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1313, 772)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1305, 765)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1285, 754)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1275, 751)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1266, 749)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1250, 748)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1242, 748)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1224, 750)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1217, 752)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1209, 754)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1193, 763)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1187, 768)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1180, 778)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1177, 784)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1174, 789)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1173, 799)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1172, 805)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1172, 810)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1177, 824)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1184, 831)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1195, 840)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1228, 855)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1247, 861)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1268, 865)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1317, 867)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1341, 867)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1363, 867)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1404, 863)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1425, 859)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1444, 854)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1470, 843)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1480, 838)"
+    }
+  ],
+  "2026-02-04 (08:53:36)": [
+    {
+      "type": "MouseMove",
+      "details": "Position: (1487, 831)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1497, 815)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1500, 805)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 795)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 777)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 771)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1499, 765)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1494, 756)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1490, 752)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1485, 749)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1477, 745)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1473, 745)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1467, 745)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1464, 745)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1462, 745)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1458, 745)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1456, 745)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1454, 747)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1453, 750)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1453, 751)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1453, 752)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1453, 754)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1454, 755)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1463, 756)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1469, 756)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1477, 756)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1488, 756)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1491, 756)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1495, 755)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1500, 750)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1500, 748)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 742)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 739)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 730)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 726)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 718)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 715)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 712)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 707)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 704)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 700)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 697)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1502, 695)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1503, 693)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1503, 692)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1504, 688)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1504, 686)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1504, 685)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1505, 681)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1505, 679)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1505, 676)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1505, 674)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1505, 673)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1505, 671)"
+    },
+    {
+      "type": "MouseClick",
+      "details": "Button.left Pressed at (1505, 671)"
+    },
+    {
+      "type": "MouseClick",
+      "details": "Button.left Released at (1505, 671)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1506, 671)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1514, 668)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1536, 660)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1613, 632)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1638, 621)"
+    }
+  ],
+  "2026-02-04 (08:53:37)": [
+    {
+      "type": "MouseMove",
+      "details": "Position: (1656, 608)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1662, 602)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1678, 574)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1691, 553)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1721, 509)"
+    },
+    {
+      "type": "MouseMove",
+      "details": "Position: (1735, 487)"
+    }
+  ]
+}
