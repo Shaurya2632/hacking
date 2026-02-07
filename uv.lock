@@ -30,7 +30,7 @@ dependencies = [
     { name = "pynput" },
     { name = "python-nmap" },
     { name = "pywifi" },
-    { name = "speedtest" },
+    { name = "speedtest-cli" },
 ]
 
 [package.metadata]
@@ -43,7 +43,7 @@ requires-dist = [
     { name = "pynput", specifier = ">=1.8.1" },
     { name = "python-nmap", specifier = ">=0.7.1" },
     { name = "pywifi", specifier = ">=1.1.12" },
-    { name = "speedtest", specifier = ">=0.0.1" },
+    { name = "speedtest-cli", specifier = ">=2.1.3" },
 ]
 
 [[package]]
@@ -2753,9 +2753,10 @@ wheels = [
 ]
 
 [[package]]
-name = "speedtest"
-version = "0.0.1"
+name = "speedtest-cli"
+version = "2.1.3"
 source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/85/d2/32c8a30768b788d319f94cde3a77e0ccc1812dca464ad8062d3c4d703e06/speedtest-cli-2.1.3.tar.gz", hash = "sha256:5e2773233cedb5fa3d8120eb7f97bcc4974b5221b254d33ff16e2f1d413d90f0", size = 24721, upload-time = "2021-04-08T13:51:33.627Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/3f/d1/ae9f842e818affbec93cc393c0a1beea8c979f921c2c345654e9c7097d24/speedtest-0.0.1-py3-none-any.whl", hash = "sha256:3028e8003931124fef27036295b21290387f488941cce27c53f0c9c5f58d2eed", size = 1270, upload-time = "2020-10-30T17:15:41.339Z" },
+    { url = "https://files.pythonhosted.org/packages/9f/39/65259b7054368b370d3183762484fa2c779ddc41633894d895f9d1720f45/speedtest_cli-2.1.3-py2.py3-none-any.whl", hash = "sha256:75ff32c91af9ac1ce2b905476d6e92bd9eb2c0783f9e7d1939d74605c7d0b9ea", size = 23973, upload-time = "2021-04-08T13:51:32.028Z" },
 ]

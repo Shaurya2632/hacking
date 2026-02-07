@@ -13,5 +13,5 @@ dependencies = [
     "pynput>=1.8.1",
     "python-nmap>=0.7.1",
     "pywifi>=1.1.12",
-    "speedtest>=0.0.1",
+    "speedtest-cli>=2.1.3",
 ]
