@@ -6,7 +6,7 @@ from getpass import getuser
 import os
 import json
 
-folder = os.path.join("C:\\Users", getuser(), "key_logs")
+# folder = os.path.join("C:\\Users", getuser(), "key_logs")
 folder = r"E:\coding\Hacking\tools\src\resources"
 
 os.makedirs(folder, exist_ok=True)
