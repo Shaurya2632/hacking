@@ -1,4 +1,6 @@
 #!/bin/bash
 clear
 
-echo $MACHTYPE
+ans=$(($1 + $2))
+
+echo "$ans"
