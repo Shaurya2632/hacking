@@ -1,5 +1,4 @@
 #!/bin/bash
+clear
 
-cap=67
-
-echo $cap
+echo $MACHTYPE
