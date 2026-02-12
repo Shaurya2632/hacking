@@ -1,16 +1,15 @@
 #!/bin/bash
 clear
 
-age="$1"
-skill="$2"
+name="$1"
 
-if [ "$age" -ge 18 ] && [ "$skill" = "true" ]; then
-    echo "You got licence"
+if [ "$name" ]; then
+   echo "Your name is $name"
 
-elif [ "$age" -ge 18 ]; then
-    echo "You got skill"
+elif [ -n "$name" ]; then
+   echo "Name can't be empty"
 
 else 
-    echo "Be 18 years old"
+   echo "Name not provided"
 
-fi    
+fi
