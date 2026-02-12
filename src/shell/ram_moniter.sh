@@ -10,4 +10,4 @@ else
     echo "free RAM is $freeRam MB"
 fi
 
-timeout 1000 bash ram_moniter.sh
+timeout 500 bash ram_moniter.sh
