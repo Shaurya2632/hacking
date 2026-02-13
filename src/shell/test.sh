@@ -1,15 +1,8 @@
 #!/bin/bash
 clear
 
-name="$1"
+file="test.sh"
 
-if [ "$name" ]; then
-   echo "Your name is $name"
+res=$(echo -f "$file" 2>&1)  
 
-elif [ -n "$name" ]; then
-   echo "Name can't be empty"
-
-else 
-   echo "Name not provided"
-
-fi
+echo "$res" 
