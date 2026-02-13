@@ -1,8 +1,11 @@
 #!/bin/bash
 clear
 
-file="test.sh"
+runningMode="slow"
 
-res=$(echo -f "$file" 2>&1)  
-
-echo "$res" 
+case $runningMode in
+  none) echo "Running in none mode" ;;
+  fast) echo "Running in fast mode" ;;
+  slow) echo "Running in slow mode" ;;
+  *) echo "Unknown running mode: $runningMode" ;;
+esac
